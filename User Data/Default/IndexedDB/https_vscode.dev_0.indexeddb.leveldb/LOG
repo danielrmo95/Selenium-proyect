@@ -1,0 +1,23 @@
+2024/07/22-11:36:55.731 1858 Creating DB C:\Users\Daniel Romero\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_vscode.dev_0.indexeddb.leveldb since it was missing.
+2024/07/22-11:36:55.737 1858 Reusing MANIFEST C:\Users\Daniel Romero\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_vscode.dev_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/24-08:43:40.347 44cc Level-0 table #5: started
+2024/07/24-08:43:40.391 44cc Level-0 table #5: 898051 bytes OK
+2024/07/24-08:43:40.393 44cc Delete type=0 #3
+2024/07/24-09:02:59.336 44cc Level-0 table #7: started
+2024/07/24-09:02:59.344 44cc Level-0 table #7: 667547 bytes OK
+2024/07/24-09:02:59.346 44cc Delete type=0 #4
+2024/07/24-09:14:03.338 1858 Compacting 1@1 + 1@2 files
+2024/07/24-09:14:03.349 1858 Generated table #8@1: 353 keys, 134764 bytes
+2024/07/24-09:14:03.349 1858 Compacted 1@1 + 1@2 files => 134764 bytes
+2024/07/24-09:14:03.350 1858 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/24-09:14:03.351 1858 Delete type=2 #5
+2024/07/24-09:14:03.351 1858 Delete type=2 #7
+2024/07/24-09:19:06.346 44cc Level-0 table #10: started
+2024/07/24-09:19:06.355 44cc Level-0 table #10: 625578 bytes OK
+2024/07/24-09:19:06.357 44cc Delete type=0 #6
+2024/07/24-09:42:16.339 44cc Compacting 1@1 + 1@2 files
+2024/07/24-09:42:16.344 44cc Generated table #11@1: 353 keys, 137420 bytes
+2024/07/24-09:42:16.344 44cc Compacted 1@1 + 1@2 files => 137420 bytes
+2024/07/24-09:42:16.345 44cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/24-09:42:16.345 44cc Delete type=2 #8
+2024/07/24-09:42:16.346 44cc Delete type=2 #10

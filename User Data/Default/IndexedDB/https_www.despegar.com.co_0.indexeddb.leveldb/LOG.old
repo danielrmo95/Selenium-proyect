@@ -1,0 +1,14 @@
+2024/08/13-12:21:14.034 5df8 Reusing MANIFEST C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/13-12:21:14.035 5df8 Recovering log #206
+2024/08/13-12:21:14.036 5df8 Reusing old log C:\Users\Daniel Romero\Desktop\fastapi-mysql-restapi\User Data\Default\IndexedDB\https_www.despegar.com.co_0.indexeddb.leveldb/000206.log 
+2024/08/13-12:21:14.036 5df8 Delete type=2 #204
+2024/08/13-12:21:14.341 5480 Level-0 table #211: started
+2024/08/13-12:21:14.418 5480 Level-0 table #211: 1369 bytes OK
+2024/08/13-12:21:14.419 5480 Delete type=0 #206
+2024/08/13-12:21:14.420 3554 Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at '\x00A\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 5801 : 1
+2024/08/13-12:21:14.482 3554 Compacting 1@0 + 1@1 files
+2024/08/13-12:21:14.500 3554 Generated table #212@0: 90 keys, 2258 bytes
+2024/08/13-12:21:14.500 3554 Compacted 1@0 + 1@1 files => 2258 bytes
+2024/08/13-12:21:14.501 3554 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-12:21:14.501 3554 Delete type=2 #211
+2024/08/13-12:21:14.503 3554 Manual compaction at level-0 from '\x00A\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 5801 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
